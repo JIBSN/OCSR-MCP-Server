@@ -1,0 +1,1 @@
+An MCP server for Optical Chemical Structure Recognition (OCSR) that detects and recognizes chemical structures from images such as scientific papers and patents. It enables integration with LLM agents for conversational AI and supports automated workflow pipelines. 
